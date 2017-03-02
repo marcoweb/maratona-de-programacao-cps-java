@@ -8,7 +8,7 @@ Problema A
 ####Tarefa####
 
 Charles de Code é programador de uma grande empresa. Recentemente um novo
-VLVWHPD IRL LPSODQWDGR VXEVWLWXLQGR DV 3YHOKDV ́ SODQLOKDV HP ([FHO &KDUOHV IRL LQFXPELGR GH
+sistema foi implantado substituindo as "velhas" planilhas em Excel. Charles foi incumbido de
 importar todos os dados das planilhas para a base de dados do novo sistema. No entanto, a
 rotina de importação que está usando é feita por terceiros e as colunas das planilhas em
 Excel são referenciadas pela sua posição numérica e não por letras. Assim, a coluna A da

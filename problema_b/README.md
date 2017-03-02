@@ -59,26 +59,26 @@ A saída deverá ser escrita em um arquivo texto chamado pesquisa.out.
 
 
 #####Exemplo de Entrada#####
-São Paulo;8886325;13/08/2016
-A;B;C;D;E
-1
-1
-2
-2
-2
-1
-N
-N
-4
-4
-3
-3
-I
-I
-B
-B
-Z
-Pracinha;1546;11/08/2016
+São Paulo;8886325;13/08/2016  
+A;B;C;D;E  
+1  
+1  
+2  
+2  
+2  
+1  
+N  
+N  
+4  
+4  
+3  
+3  
+I  
+I  
+B  
+B  
+Z  
+Pracinha;1546;11/08/2016  
 T;A;S
 1
 2

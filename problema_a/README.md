@@ -37,13 +37,21 @@ com o número de referência N da(s) letra(s) indicativa(s) da coluna, onde 1 <=
 
 A saída deverá ser escrita em um arquivo texto chamado excel.out.
 
-Exemplo de Entrada|Saída para o exemplo de entrada
-------------------|-------------------------------
-A|1
-B|2
-C|3
-Z|26
-AA|27
-AAA|703
-EXW|4027
-XFD|16384
+#####Exemplo de Entrada#####
+A  
+B  
+C  
+Z  
+AA  
+AAA  
+EXW  
+XFD  
+#####Saída para o exemplo de entrada#####
+1  
+2  
+3  
+26  
+27  
+703  
+4027  
+16384  

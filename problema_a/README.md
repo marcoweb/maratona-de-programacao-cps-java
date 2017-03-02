@@ -1,1 +1,1 @@
-[[ProblemaA|mpcps2016-problema-a.pdf]]
+![ProblemaA](mpcps2016-problema-a.pdf)

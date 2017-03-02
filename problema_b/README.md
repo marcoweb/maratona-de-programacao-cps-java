@@ -97,7 +97,7 @@ N
 I  
 Z  
 #####Saída para o exemplo de entrada#####
-São Paulo 8886325 08/08/2016 16 5  
+São Paulo 8886325 13/08/2016 16 5  
 A 18,7  
 B 18,7  
 C 12,5  
@@ -106,7 +106,7 @@ E 0,0
 Nulos 12,5  
 Brancos 12,5  
 Indecisos 12,5  
-Pracinha 1546 10/08/2016 15 3  
+Pracinha 1546 11/08/2016 15 3  
 T 20,0  
 A 20,0  
 S 20,0  

@@ -1,7 +1,7 @@
 Problema D
 ==========
 
-###Coleta Seletiva - Reciclagem ###
+###Mega-Sena###
 
 **Nome do arquivo fonte:** Megasena.java
 

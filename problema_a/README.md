@@ -1,1 +1,1 @@
-![ProblemaA](mpcps2016-problema-a.pdf)
+Enunciado: ![ProblemaA](mpcps2016-problema-a.pdf)
